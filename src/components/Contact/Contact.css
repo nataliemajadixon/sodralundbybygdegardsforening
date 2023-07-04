@@ -1,1 +1,19 @@
 /* <a className="vastralink" href="https://www.vasttrafik.se/">  www.vasttrafik.se</a> */
+.wholecontact{
+    background-color: rgb(233, 216, 196);
+}
+
+.contactheader{
+    
+    font-size: 50px;
+    font-weight: 600;
+    text-align:center;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.mapheader{
+    font-size: 20px;
+    font-weight: 300;
+    padding-top: 30px;
+}

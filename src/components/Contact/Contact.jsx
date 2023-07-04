@@ -8,8 +8,10 @@ import Col from 'react-bootstrap/Col';
 const Contact = () => {
     return(
 <>
+<div className="wholecontact">
+
 <div>
-    <div> Kontakt/ Hitta till oss</div>
+    <div className="contactheader"> Kontakt/ Hitta till oss</div>
 </div>
 
 <div><Container>
@@ -19,6 +21,10 @@ const Contact = () => {
         <div className="mappara">
         Södra Lundby 4, 534 61 Vedum
         </div>
+        <div className="mapheader">
+        ORDFÖRANDE:
+        </div>
+        <div className="mappara">Andreas Nilsson, 070-6906995</div>
         </Col>
         <Col xs={6}>
 <div>
@@ -27,6 +33,7 @@ const Contact = () => {
 </Col>
       </Row>
       </Container></div>
+      </div>
 </>
 
     )

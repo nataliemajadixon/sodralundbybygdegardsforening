@@ -4,7 +4,7 @@
 
 .flexhome{
     display: flex;
-    background-color: aquamarine;
+    background-color: rgb(167, 181, 176);
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
@@ -92,3 +92,47 @@
 .hometractorinfo > div {
     padding-top: 20px;
 }
+
+
+
+.flexboxlayout1b{
+    position: flex;
+    flex-wrap: wrap;
+    text-align: center;
+
+    background: linear-gradient(rgba(149, 145, 145, 0.495), rgba(255, 255, 255, 0.133)), url('../../assets/building.jpeg');
+    background-repeat: no-repeat;
+    width: 600px;
+    height: 400px;
+    background-size: cover ;
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+  }
+
+    .flexboxlayout2b{
+    position: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    
+    background-color: rgb(203, 178, 148);   
+    width: 500px;
+    height: 400px;
+    background-size: cover ;
+    
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    
+}
+
+.flexboxlayout2textb{
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }

@@ -65,6 +65,34 @@ Vi ses vid Södra Lundby bygdegård!
 </strong>
 </div>
 </section>
+
+
+<section>
+    <div className="flexhome">
+        <div className="flexboxlayout1b">
+          
+        </div>
+        <div className="flexboxlayout2b">
+        
+       <div className="flexboxlayout2textb"> 
+        <div>Södra Lundby är en liten by som ligger i Vara kommun i Västra Götaland och 
+            har ca 250 invånare. Föreningen bildades 20 januari 1945
+             och det som kom att bli vår bygdegård börjades byggas 1949.
+             </div>
+             <div>
+I bygdegården ordnas många fester och andra evenemang under året.
+            </div>
+            <div>
+Höjdpunkten är det årliga Traktorracet sista fredagen i juli. Läs mer om årets och tidigare
+ traktorrace på traktorracesidan.</div>
+        
+        </div>
+    
+        </div>
+    </div>
+</section>
+
+
 </>
     )
 }

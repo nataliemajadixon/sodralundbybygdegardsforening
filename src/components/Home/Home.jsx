@@ -18,12 +18,12 @@ const Home = () => {
           
         </div>
         <div className="flexboxlayout2">
-        <a href="/about">
+        
        <div className="flexboxlayout2text"> 
         <div>Traktorrace 2023- Södra Lundby FRI, 28 JUL 2023 AT 18:00</div>
      
         </div>
-        </a>
+    
         </div>
     </div>
 </section>

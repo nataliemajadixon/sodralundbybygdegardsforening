@@ -7,9 +7,9 @@ import './Navbar.css'
 const Navbars = () => {
     return (
         <>
-           <Navbar className='topnavbar' expand="lg" sticky="top" style={{backgroundColor: 'rgb(201, 199, 193)'}} >
+           <Navbar  className='topnavbar py-3 py-lg-5' expand="lg" sticky="top" style={{backgroundColor: 'rgb(230, 228, 223)'}} >
         <Container fluid>
-          <Navbar.Brand href="/"> Södra Lundby bygdegårdsförening</Navbar.Brand>
+          <Navbar.Brand href="/">Södra Lundby Bygdegårdsförening  </Navbar.Brand>
          
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">

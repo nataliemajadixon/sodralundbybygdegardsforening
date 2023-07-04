@@ -1,0 +1,29 @@
+
+.historyheader{
+    font-size: 60px;
+    font-weight: 600;
+    text-align:center;
+    padding-top: 40px;
+}
+
+.historytext > div{
+    padding-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 18px;
+}
+.milesheader{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+/* .milestones > strong{
+ padding-left: 10px;
+} */
+
+.milestext{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+}

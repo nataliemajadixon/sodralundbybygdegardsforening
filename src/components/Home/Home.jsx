@@ -27,6 +27,44 @@ const Home = () => {
         </div>
     </div>
 </section>
+<div className="hometractorheader">Traktorrace 2023 - Södra Lundby Information</div>
+
+<section className='hometractorinfo'>
+   
+    <div>Nytt år nytt race! Snart är det dax igen! </div>
+    <div>
+1995 föddes den lite galna idén om att pröva vem som hade den snabbaste traktorn i Södra Lundby. Idén har genom åren utvecklats till en dramatisk parallell-slalomtävling för traktorer som följs av tusentals åskådare varje år.
+Sista fredagen i juli, glöm inte det!
+</div>
+<div>
+<strong>17:00 Välkommen!</strong> Helikopter och övriga kringarrangemang startar.
+</div>
+<div>
+<strong>18:00</strong> Start uppvisning veterantraktorer, a-traktorer, nya traktorer mm.
+</div>
+<div>
+<strong>19:00</strong> Första start i racet.
+</div>
+<div>
+<strong>Ca 21:00 </strong> körs finalen med efterföljande prisutdelning.
+</div>
+<div>
+<strong>21:00</strong> drar årets afterracefest igång på utedansbanan vid bygdegården!
+</div>
+<div><strong>
+Entré 80 kr. Gratis 15 år och yngre.
+Du kan swisha!</strong>
+</div>
+<div>
+Vi säljer hamburgare, kaffe, fika, godis mm så du kan komma hungrig!
+Kom i tid! Det tar tid att ta sig fram sista biten och sedan parkera.
+</div>
+<div>
+<strong>
+Vi ses vid Södra Lundby bygdegård!
+</strong>
+</div>
+</section>
 </>
     )
 }

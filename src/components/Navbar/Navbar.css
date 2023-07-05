@@ -1,8 +1,17 @@
 
 .style{
-    background-color: rgb(230, 228, 223);
-
+    background-color: #DEB22E;
+    /* #D8B09A */
+    /* 'rgb(192, 128, 93) */
+    /* #a86642 */
 }
+
+.navigation{
+    font-size: 16px;
+    font-weight: 600;
+    padding-right: 80px;
+}
+
 /* <img src={require('../../assets/logolundby.jpeg')} alt='businesslogo' style={{height: '60px', paddingLeft: '80px'}} /> */
 
 /* Södra Lundby bygdegårdsförening */

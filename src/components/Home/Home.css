@@ -39,7 +39,7 @@
     flex-wrap: wrap;
     text-align: center;
     
-    background-color: rgb(203, 178, 148);   
+    background-color: rgb(192, 128, 93) ; 
     width: 500px;
     height: 400px;
     background-size: cover ;
@@ -55,7 +55,7 @@
 .flexboxlayout2text{
     padding-top: 50px;
     font-size: 35px;
-    color: rgb(0, 0, 0);
+    color: white;
     text-decoration: none;
   }
   /* .flexboxlayout2text:hover {
@@ -116,7 +116,7 @@
     flex-wrap: wrap;
     text-align: center;
     
-    background-color: rgb(203, 178, 148);   
+    background-color: #5d9dc0;   
     width: 500px;
     height: 400px;
     background-size: cover ;

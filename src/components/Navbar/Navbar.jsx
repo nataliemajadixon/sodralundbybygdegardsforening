@@ -7,7 +7,7 @@ import './Navbar.css'
 const Navbars = () => {
     return (
         <>
-           <Navbar  className='topnavbar py-3 py-lg-5' expand="lg" sticky="top" style={{backgroundColor: 'rgb(230, 228, 223)'}} >
+           <Navbar  className='topnavbar py-3 py-lg-5' expand="lg" sticky="top" style={{backgroundColor: '#D8B09A '}} > 
         <Container fluid>
           <Navbar.Brand href="/">Södra Lundby Bygdegårdsförening  </Navbar.Brand>
          
